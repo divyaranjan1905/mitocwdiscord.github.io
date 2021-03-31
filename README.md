@@ -1,2 +1,2 @@
 # mitocwdiscord.github.io
-Blog for theMIT OCW community on Discord. 
+Blog for the MIT OCW community on Discord. 
